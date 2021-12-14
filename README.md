@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stormyboy68
+- 👋 Hi, I’m farzad
 - 👀 I’m interested in web applacation
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
